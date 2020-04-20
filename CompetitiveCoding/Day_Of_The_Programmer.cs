@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp3
+namespace CompetitiveCoding
 {
+    //TODO
     public class Day_Of_The_Programmer
     {
         static string dayOfProgrammer(int year)
@@ -12,7 +13,7 @@ namespace ConsoleApp3
             return "";
         }
 
-        static void Main(string[] args)
+        public static void Start(string[] args)
         {
             int year = 2016;
 

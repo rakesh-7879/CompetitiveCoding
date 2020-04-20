@@ -1,0 +1,11 @@
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\bin\Debug\netcoreapp3.1\CompetitiveCoding.exe
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\bin\Debug\netcoreapp3.1\CompetitiveCoding.deps.json
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\bin\Debug\netcoreapp3.1\CompetitiveCoding.runtimeconfig.json
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\bin\Debug\netcoreapp3.1\CompetitiveCoding.runtimeconfig.dev.json
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\bin\Debug\netcoreapp3.1\CompetitiveCoding.dll
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\bin\Debug\netcoreapp3.1\CompetitiveCoding.pdb
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.AssemblyInfoInputs.cache
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.AssemblyInfo.cs
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.dll
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.pdb
+D:\projects\aspProjects\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.csprojAssemblyReference.cache

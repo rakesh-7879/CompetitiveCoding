@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ConsoleApp3
+namespace CompetitiveCoding
 {
     class Program
     {
         static void Main(string[] args)
         {
             var watch = System.Diagnostics.Stopwatch.StartNew();
-            Migratory_Birds.Start(args);
+            Modified_Kaprekar_Numbers.Start(args);
             watch.Stop();
             Console.WriteLine(TimeSpan.FromMilliseconds(watch.ElapsedMilliseconds).TotalSeconds);
         }
