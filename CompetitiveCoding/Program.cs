@@ -9,9 +9,10 @@ namespace CompetitiveCoding
         static void Main(string[] args)
         {
             var watch = System.Diagnostics.Stopwatch.StartNew();
-            Modified_Kaprekar_Numbers.Start(args);
+            Build_A_Palindrome.Start(args);
             watch.Stop();
             Console.WriteLine(TimeSpan.FromMilliseconds(watch.ElapsedMilliseconds).TotalSeconds);
+            Console.WriteLine(GC.GetTotalMemory(true));
         }
     }
 }
