@@ -1,4 +1,5 @@
-﻿using CompetitiveCoding.ProjectEuler;
+﻿using CompetitiveCoding.CSharpBasicSkills;
+using CompetitiveCoding.ProjectEuler;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace CompetitiveCoding
             // question two
             // HackerRankIntermediateTwo.Start();
 
-            _0008LargestProductInASeries.Start();
+            PickingNumbers.Start();
 
             //watch.Stop();
             //Console.WriteLine(TimeSpan.FromMilliseconds(watch.ElapsedMilliseconds).TotalSeconds);
