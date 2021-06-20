@@ -1,8 +1,5 @@
-﻿using CompetitiveCoding.CSharpBasicSkills;
-using CompetitiveCoding.ProjectEuler;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿
+using CompetitiveCoding.RestApi;
 
 namespace CompetitiveCoding
 {
@@ -18,7 +15,7 @@ namespace CompetitiveCoding
             // question two
             // HackerRankIntermediateTwo.Start();
 
-            PickingNumbers.Start();
+            RestApiIntermediateNumberOfDrawnMatches.Start();
 
             //watch.Stop();
             //Console.WriteLine(TimeSpan.FromMilliseconds(watch.ElapsedMilliseconds).TotalSeconds);

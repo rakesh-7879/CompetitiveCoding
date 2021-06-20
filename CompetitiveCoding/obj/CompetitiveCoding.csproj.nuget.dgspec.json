@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj": {}
+    "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj": {}
   },
   "projects": {
-    "E:\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj": {
+    "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
+        "projectUniqueName": "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
         "projectName": "CompetitiveCoding",
-        "projectPath": "E:\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
-        "packagesPath": "C:\\Users\\usertyffg\\.nuget\\packages\\",
-        "outputPath": "E:\\CompetitiveCoding\\CompetitiveCoding\\obj\\",
+        "projectPath": "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\usertyffg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://workorder-nuget.writso.com/repository/nuget-hosted": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -39,6 +43,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,18 +59,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

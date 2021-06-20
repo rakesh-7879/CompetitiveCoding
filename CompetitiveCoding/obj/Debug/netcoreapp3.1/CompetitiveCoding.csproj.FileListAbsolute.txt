@@ -37,3 +37,5 @@ E:\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding
 E:\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.dll
 E:\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.pdb
 E:\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.genruntimeconfig.cache
+D:\RakeshWorkSpase\MyProject\CompetitiveCoding\CompetitiveCoding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RakeshWorkSpase\MyProject\CompetitiveCoding\CompetitiveCoding\obj\Debug\netcoreapp3.1\CompetitiveCoding.csproj.CopyComplete
