@@ -14,13 +14,25 @@ namespace CompetitiveCoding
             var count = 0;
             for(int start = i; start <= j; start++)
             {
-                var result = (decimal) (start - int.Parse(string.Join("", start.ToString().Select(x => x).Reverse()))) / k;
+                var result = (decimal) (start - GetReverse(start)) / k;
                 if(result == (int)result)
                 {
                     count++;
                 }
             }
             return count;
+        }
+
+        static int GetReverse(int num)
+        {
+            var reverse = 0;
+            while (num > 0)
+            {
+                var remainder = num % 10;
+                reverse = reverse * 10 + remainder;
+                num /= 10;
+            }
+            return reverse;
         }
 
         public static void Start(string[] args)

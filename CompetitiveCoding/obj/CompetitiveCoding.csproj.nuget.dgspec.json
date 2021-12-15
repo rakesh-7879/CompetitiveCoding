@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj": {}
+    "D:\\RakeshWorkSpase\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj": {}
   },
   "projects": {
-    "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj": {
+    "D:\\RakeshWorkSpase\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
+        "projectUniqueName": "D:\\RakeshWorkSpase\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
         "projectName": "CompetitiveCoding",
-        "projectPath": "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\obj\\",
+        "projectPath": "D:\\RakeshWorkSpase\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
+        "packagesPath": "C:\\Users\\rakes\\.nuget\\packages\\",
+        "outputPath": "D:\\RakeshWorkSpase\\CompetitiveCoding\\CompetitiveCoding\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rakes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://workorder-nuget.writso.com/repository/nuget-hosted": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

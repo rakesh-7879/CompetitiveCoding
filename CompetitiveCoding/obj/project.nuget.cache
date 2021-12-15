@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NxP60GcpAX/YaN0VjbwYSO5EHlOTUBm2v/AnNY5b/xsxQyT48mwyZHDJ8SYr7E9yjSKX14KN6LScLeclkZaYcA==",
+  "dgSpecHash": "6LQC9ZlPpG5RiERteWqaxqIVx/y9BlaXNKbrO+Eg2LK5IQ2YA1dcBbkufc+7OxdBmnwEAFoElSXg2e9wE9/xtg==",
   "success": true,
-  "projectFilePath": "D:\\RakeshWorkSpase\\MyProject\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
+  "projectFilePath": "D:\\RakeshWorkSpase\\CompetitiveCoding\\CompetitiveCoding\\CompetitiveCoding.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\rakes\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace CompetitiveCoding.ProjectEuler
@@ -27,19 +28,11 @@ namespace CompetitiveCoding.ProjectEuler
 
         static bool CheckPrime(int number)
         {
-            int i;
-            for (i = 2; i <= number - 1; i++)
-            {
-                if (number % i == 0)
-                {
-                    return false;
-                }
-            }
-            if (i == number)
-            {
-                return true;
-            }
-            return false;
+            if (number == 1) return false;
+            if (number == 2) return true;
+            if (number == 3) return true;
+            var numbers = Enumerable.Range(2, (number / 2));
+            return !numbers.Any(x => number % x == 0);
         }
     }
 }
